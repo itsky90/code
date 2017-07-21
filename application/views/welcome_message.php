@@ -248,38 +248,7 @@
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-                                                        <div class="col-inner">
-                                                            <div class="widget-images box">
-                                                                <div class="widget-inner img-adv box-content clearfix">
-                                                                    <div class="image-item effect-v10">
-                                                                        <a href="" target="_self">
-                                                                            <img class="img-responsive" alt="home banner 001" src="http://shopstars.myzozo.net/image/cache/catalog/banner/bn1-370x232.png" />
-                                                                        </a>
-                                                                        <a href="catalog/banner/bn1.png" class="pts-popup fancybox" title="home banner 001">
-                                                                            <span class="icon icon-expand"></span>
-                                                                        </a>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-                                                        <div class="col-inner">
-                                                            <div class="widget-images box">
-                                                                <div class="widget-inner img-adv box-content clearfix">
-                                                                    <div class="image-item effect-v10">
-                                                                        <a href="" target="_self">
-                                                                            <img class="img-responsive" alt="home banner 002" src="http://shopstars.myzozo.net/image/cache/catalog/banner/bn2-370x232.png" />
-                                                                        </a>
-                                                                        <a href="catalog/banner/bn2.png" class="pts-popup fancybox" title="home banner 002">
-                                                                            <span class="icon icon-expand"></span>
-                                                                        </a>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
+                                                  <!--item san pham moi -->
                                                     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
                                                         <div class="col-inner">
                                                             <div class="widget-images box">
@@ -296,13 +265,17 @@
                                                             </div>
                                                         </div>
                                                     </div>
-                                       
+
+                                       			<!--end item san pham moi-->
 
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
+							<!--end san pham moi-->
 
+
+							<!--quang cao-->
                                     <div class="pav-container no-space-row">
                                         <div class="pav-inner container">
                                             <div class="row row-level-1 ">
@@ -359,6 +332,10 @@
                                             </div>
                                         </div>
                                     </div>
+
+                                    <!--end quang cao-->
+
+                                    <!-- tin tuc -->
                                     <div class="pav-container">
                                         <div class="pav-inner container">
                                             <div class="row row-level-1 ">
@@ -370,6 +347,8 @@
                                                                 <div class="panel-heading">
                                                                     <h4 class="panel-title">Tin Tức</h4>
                                                                 </div>
+
+                                                                <!--item news-->
                                                                 <div class="panel-body">
                                                                     <div class="carousel-inner owl-carousel" data-show="1" data-pagination="false" data-navigation="true">
 
@@ -388,8 +367,8 @@
                                                                                             </div>
                                                                                             <div class="latest-posts-meta">
                                                                                                 <h4 class="latest-posts-title">
-                                                <a href="http://shopstars.myzozo.net/sam-sung-galaxy-s6-dot-pha-cong-nghe" title="Sam Sung Galaxy s6 - Đột Phá Công Nghệ">Sam Sung Galaxy s6 - Đột Phá Công Nghệ</a>
-                                            </h4>
+                                                													<a href="http://shopstars.myzozo.net/sam-sung-galaxy-s6-dot-pha-cong-nghe" title="Sam Sung Galaxy s6 - Đột Phá Công Nghệ">Sam Sung Galaxy s6 - Đột Phá Công Nghệ</a>
+                                            													</h4>
                                                                                                 <div class="blog-meta">
                                                                                                     <span class="created">
                                                     <span class="day">13</span>
@@ -410,180 +389,11 @@
                                                                                 </div>
 
 
-                                                                                <div class="col-lg-4 col-md-4 col-sm-4">
-                                                                                    <div class="blog-item">
-                                                                                        <div class="latest-posts-body">
-                                                                                            <div class="latest-posts-img-profile">
-                                                                                                <div class="latest-posts-image effect">
-                                                                                                    <a href="http://shopstars.myzozo.net/can-canh-iphone-8-khong-vien-man-hinh-dep-muot-mai" class="blog-article">
-                                                                                                        <img src="http://shopstars.myzozo.net/image/cache/catalog/tin-tuc/tin-tuc/ip3-1497786338609-370x233.png" title="Cận cảnh iPhone 8 không viền màn hình đẹp mướt mải" alt="Cận cảnh iPhone 8 không viền màn hình đẹp mướt mải" class="img-responsive" />
-                                                                                                    </a>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                            <div class="latest-posts-meta">
-                                                                                                <h4 class="latest-posts-title">
-                                                <a href="http://shopstars.myzozo.net/can-canh-iphone-8-khong-vien-man-hinh-dep-muot-mai" title="Cận cảnh iPhone 8 không viền màn hình đẹp mướt mải">Cận cảnh iPhone 8 không viền màn hình đẹp mướt mải</a>
-                                            </h4>
-                                                                                                <div class="blog-meta">
-                                                                                                    <span class="created">
-                                                    <span class="day">19</span>
-                                                                                                    <span class="month">Jun</span>
-                                                                                                    </span>
-                                                                                                    <span class="comment_count"><i class="fa fa-comments"></i> 0</span>
-                                                                                                </div>
-
-                                                                                                <div class="shortinfo">
-                                                                                                    Đây được đánh giá là một trong những concept iPhone 8 chân thực nhất hiện nay.Kantar Worldpanel ComTech mới đây đã phát đi báo cáo của mình về thị trư...
-                                                                                                </div>
-                                                                                                <div class="blog-readmore">
-                                                                                                    <a href="http://shopstars.myzozo.net/can-canh-iphone-8-khong-vien-man-hinh-dep-muot-mai">Xem thêm</a>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-
-
-                                                                                <div class="col-lg-4 col-md-4 col-sm-4">
-                                                                                    <div class="blog-item">
-                                                                                        <div class="latest-posts-body">
-                                                                                            <div class="latest-posts-img-profile">
-                                                                                                <div class="latest-posts-image effect">
-                                                                                                    <a href="http://shopstars.myzozo.net/loa-thong-minh-apple-vua-ra-mat-dang-bi-cu-dan-mang-che-anh-toi-ta" class="blog-article">
-                                                                                                        <img src="http://shopstars.myzozo.net/image/cache/catalog/tin-tuc/tin-tuc/Nghenhinvietnam_HomePod_03_MQGT-370x233.jpg" title="Loa thông minh Apple vừa ra mắt đang bị cư dân mạng chế ảnh tơi tả" alt="Loa thông minh Apple vừa ra mắt đang bị cư dân mạng chế ảnh tơi tả" class="img-responsive" />
-                                                                                                    </a>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                            <div class="latest-posts-meta">
-                                                                                                <h4 class="latest-posts-title">
-                                                <a href="http://shopstars.myzozo.net/loa-thong-minh-apple-vua-ra-mat-dang-bi-cu-dan-mang-che-anh-toi-ta" title="Loa thông minh Apple vừa ra mắt đang bị cư dân mạng chế ảnh tơi tả">Loa thông minh Apple vừa ra mắt đang bị cư dân mạng chế ảnh tơi tả</a>
-                                            </h4>
-                                                                                                <div class="blog-meta">
-                                                                                                    <span class="created">
-                                                    <span class="day">20</span>
-                                                                                                    <span class="month">Jun</span>
-                                                                                                    </span>
-                                                                                                    <span class="comment_count"><i class="fa fa-comments"></i> 0</span>
-                                                                                                </div>
-
-                                                                                                <div class="shortinfo">
-                                                                                                    Nhiều người cho biết nó rất giống cuộn giấy vệ sinh.Như vậy&nbsp;Apple&nbsp;đã chính thức "vén màn" chiếc loa thông minh tại sự kiện WWDC 2017 diễn ra...
-                                                                                                </div>
-                                                                                                <div class="blog-readmore">
-                                                                                                    <a href="http://shopstars.myzozo.net/loa-thong-minh-apple-vua-ra-mat-dang-bi-cu-dan-mang-che-anh-toi-ta">Xem thêm</a>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-
-                                                                            </div>
-                                                                        </div>
-                                                                        <div class="item ">
-                                                                            <div class="row products-row">
-
-                                                                                <div class="col-lg-4 col-md-4 col-sm-4">
-                                                                                    <div class="blog-item">
-                                                                                        <div class="latest-posts-body">
-                                                                                            <div class="latest-posts-img-profile">
-                                                                                                <div class="latest-posts-image effect">
-                                                                                                    <a href="http://shopstars.myzozo.net/tuong-the-nao-4-tinh-nang-dinh-ma-iphone-8-se-co-thuc-ra-chi-la-an-theo" class="blog-article">
-                                                                                                        <img src="http://shopstars.myzozo.net/image/cache/catalog/tin-tuc/photo%202-370x233.jpg" title="Tưởng thế nào, 4 tính năng đỉnh mà iPhone 8 sẽ có thực ra chỉ là ăn theo" alt="Tưởng thế nào, 4 tính năng đỉnh mà iPhone 8 sẽ có thực ra chỉ là ăn theo" class="img-responsive" />
-                                                                                                    </a>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                            <div class="latest-posts-meta">
-                                                                                                <h4 class="latest-posts-title">
-                                                <a href="http://shopstars.myzozo.net/tuong-the-nao-4-tinh-nang-dinh-ma-iphone-8-se-co-thuc-ra-chi-la-an-theo" title="Tưởng thế nào, 4 tính năng đỉnh mà iPhone 8 sẽ có thực ra chỉ là ăn theo">Tưởng thế nào, 4 tính năng đỉnh mà iPhone 8 sẽ có thực ra chỉ là ăn theo</a>
-                                            </h4>
-                                                                                                <div class="blog-meta">
-                                                                                                    <span class="created">
-                                                    <span class="day">21</span>
-                                                                                                    <span class="month">Jun</span>
-                                                                                                    </span>
-                                                                                                    <span class="comment_count"><i class="fa fa-comments"></i> 0</span>
-                                                                                                </div>
-
-                                                                                                <div class="shortinfo">
-                                                                                                    Rất nhiều tính năng lần đầu có trên iPhone 8 đã được coi là "cổ lỗ sĩ" trên sân chơi di động.Phải trên dưới ba tháng nữa, iPhone 8 mới trình làng nhưn...
-                                                                                                </div>
-                                                                                                <div class="blog-readmore">
-                                                                                                    <a href="http://shopstars.myzozo.net/tuong-the-nao-4-tinh-nang-dinh-ma-iphone-8-se-co-thuc-ra-chi-la-an-theo">Xem thêm</a>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-
-                                                                            </div>
-                                                                        </div>
-
-                                                                        <div class="carousel-controls">
-                                                                            <a class="carousel-control left" href="#blog-carousel294092627" data-slide="prev"><i class="fa fa-angle-left"></i></a>
-                                                                            <a class="carousel-control right" href="#blog-carousel294092627" data-slide="next"><i class="fa fa-angle-right"></i></a>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-
-                                                            <div class="hidden-xs widget-carousel owl-carousel-play panel-default hightlight home-brand">
-                                                                <div class="carousel-inner owl-carousel" data-show="1" data-pagination="false" data-navigation="true">
-
-                                                                    <div class="item active space-padding-lr-10">
-                                                                        <div class="row">
-
-                                                                            <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
-                                                                                <div class="item-inner">
-                                                                                    <a href="http://shopstars.myzozo.net/apple"><img src="image/catalog/hang-san-xuat/1.png" alt="Apple" class="img-responsive" />
-                                                                                    </a>
-                                                                                </div>
-                                                                            </div>
-
-
-                                                                            <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
-                                                                                <div class="item-inner">
-                                                                                    <a href="http://shopstars.myzozo.net/canon"><img src="image/catalog/hang-san-xuat/2.png" alt="Canon" class="img-responsive" />
-                                                                                    </a>
-                                                                                </div>
-                                                                            </div>
-
-
-                                                                            <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
-                                                                                <div class="item-inner">
-                                                                                    <a href="http://shopstars.myzozo.net/hewlett-packard"><img src="image/catalog/hang-san-xuat/3.png" alt="Hewlett-Packard" class="img-responsive" />
-                                                                                    </a>
-                                                                                </div>
-                                                                            </div>
-
-
-                                                                            <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
-                                                                                <div class="item-inner">
-                                                                                    <a href="http://shopstars.myzozo.net/htc"><img src="image/catalog/hang-san-xuat/4.png" alt="HTC" class="img-responsive" />
-                                                                                    </a>
-                                                                                </div>
-                                                                            </div>
-
-
-                                                                            <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
-                                                                                <div class="item-inner">
-                                                                                    <a href="http://shopstars.myzozo.net/palm"><img src="image/catalog/hang-san-xuat/5.png" alt="Palm" class="img-responsive" />
-                                                                                    </a>
-                                                                                </div>
-                                                                            </div>
-
-
-                                                                            <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
-                                                                                <div class="item-inner">
-                                                                                    <a href="http://shopstars.myzozo.net/sony"><img src="image/catalog/hang-san-xuat/6.png" alt="Sony" class="img-responsive" />
-                                                                                    </a>
-                                                                                </div>
-                                                                            </div>
-
-                                                                        </div>
-                                                                    </div>
+                                                                         
                                                                 </div>
 
-                                                            </div>
+                                                                <!--end news-->
+                                                               <?php $this->load->view('site/adv_partner')?>
                                                             <script type="text/javascript">
                                                                 $(document).ready(function() {
                                                                     var html = '';
