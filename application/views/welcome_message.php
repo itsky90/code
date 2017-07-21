@@ -40,6 +40,7 @@
                                             <div class="row row-level-1 ">
                                                 <div class="row-inner clearfix">
                                                     <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9">
+                                                    <!--san pham noi bat-->
                                                         <div class="col-inner">
 
                                                             <div class="widget panel-default">
@@ -50,21 +51,21 @@
                                                                     <div class="owl-carousel product-grid" data-show="1" data-pagination="false" data-navigation="true">
                                                                         <div class="item active products-block no-space-row">
                                                                             <div class="row products-row  last">
-
+                                                                            	<!--4 item-->
                                                                                 <div class="col-lg-3 col-sm-3 col-xs-12  product-col">
                                                                                     <div class="product-block">
                                                                                         <div class="image">
 
                                                                                             <div class="product-img img">
-                                                                                                <a class="img" title="Sam Sung Galaxy S6" href="http://shopstars.myzozo.net/sam-sung-galaxy-s6">
-                                                                                                    <img class="img-responsive" src="http://shopstars.myzozo.net/image/cache/catalog/san-pham/1-560x636.jpg" title="Sam Sung Galaxy S6" alt="Sam Sung Galaxy S6" />
+                                                                                                <a class="img" title="chau ve hinh thu" href="link.com/chau-ve-hinh-thu">
+                                                                                                    <img class="img-responsive" src="link.com/image/cache/catalog/san-pham/1-560x636.jpg" title="chau ve hinh thu" alt="chau thu" />
                                                                                                 </a>
                                                                                                 <div class="quickview hidden-xs hidden-xs">
-                                                                                                    <a class="btn quick-view" data-toggle="tooltip" data-placement="top" href="http://shopstars.myzozo.net/sam-sung-galaxy-s6" title="Xem">
+                                                                                                    <a class="btn quick-view" data-toggle="tooltip" data-placement="top" href="link.com/chau-hinh-thu" title="Xem">
                                                                                                         <i class="fa fa-arrows-alt"></i> Xem </a>
                                                                                                 </div>
                                                                                                 <div class="zoom hidden-xs hidden-sm">
-                                                                                                    <a data-toggle="tooltip" data-placement="top" href="http://shopstars.myzozo.net/image/catalog/san-pham/1.jpg" class="product-zoom info-view colorbox cboxElement" title="Sam Sung Galaxy S6">
+                                                                                                    <a data-toggle="tooltip" data-placement="top" href="http://shopstars.myzozo.net/image/catalog/san-pham/1.jpg" class="product-zoom info-view colorbox cboxElement" title="chau hinh thu">
                                                                                                         <i class="fa fa-search"></i>
                                                                                                     </a>
                                                                                                 </div>
@@ -72,7 +73,7 @@
                                                                                         </div>
                                                                                         <div class="product-meta">
                                                                                             <div class="top">
-                                                                                                <h6 class="name"><a href="http://shopstars.myzozo.net/sam-sung-galaxy-s6">Sam Sung Galaxy S6</a></h6>
+                                                                                                <h6 class="name"><a href="link.com/chau-ve-hinh-thu">Chau hin h thu</a></h6>
                                                                                                 <div class="rating">
                                                                                                     <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-1x"></i></span>
                                                                                                     <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-1x"></i></span>
@@ -82,7 +83,7 @@
                                                                                                 </div>
 
                                                                                                 <div class="price">
-                                                                                                    <span class="price-new">10,000,000đ</span>
+                                                                                                    <span class="price-new">150,000đ</span>
                                                                                                 </div>
 
                                                                                             </div>
@@ -111,192 +112,10 @@
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
+                                                                                <!--end 4 item-->
 
 
-                                                                                <div class="col-lg-3 col-sm-3 col-xs-12  product-col">
-                                                                                    <div class="product-block">
-                                                                                        <div class="image">
 
-                                                                                            <div class="product-img img">
-                                                                                                <a class="img" title="HP Pavilion Laptop" href="http://shopstars.myzozo.net/hp-pavilion-laptop">
-                                                                                                    <img class="img-responsive" src="http://shopstars.myzozo.net/image/cache/catalog/san-pham/2-560x636.jpg" title="HP Pavilion Laptop" alt="HP Pavilion Laptop" />
-                                                                                                </a>
-                                                                                                <div class="quickview hidden-xs hidden-xs">
-                                                                                                    <a class="btn quick-view" data-toggle="tooltip" data-placement="top" href="http://shopstars.myzozo.net/hp-pavilion-laptop" title="Xem">
-                                                                                                        <i class="fa fa-arrows-alt"></i> Xem </a>
-                                                                                                </div>
-                                                                                                <div class="zoom hidden-xs hidden-sm">
-                                                                                                    <a data-toggle="tooltip" data-placement="top" href="http://shopstars.myzozo.net/image/catalog/san-pham/2.jpg" class="product-zoom info-view colorbox cboxElement" title="HP Pavilion Laptop">
-                                                                                                        <i class="fa fa-search"></i>
-                                                                                                    </a>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                        <div class="product-meta">
-                                                                                            <div class="top">
-                                                                                                <h6 class="name"><a href="http://shopstars.myzozo.net/hp-pavilion-laptop">HP Pavilion Laptop</a></h6>
-                                                                                                <div class="rating">
-                                                                                                    <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-1x"></i></span>
-                                                                                                    <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-1x"></i></span>
-                                                                                                    <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-1x"></i></span>
-                                                                                                    <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-1x"></i></span>
-                                                                                                    <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-1x"></i></span>
-                                                                                                </div>
-
-                                                                                                <div class="price">
-                                                                                                    <span class="price-new">6,999,000đ</span>
-                                                                                                </div>
-
-                                                                                            </div>
-                                                                                            <div class="bottom">
-                                                                                                <div class="action add-links clearfix">
-
-                                                                                                    <div class="cart">
-                                                                                                        <button data-loading-text="Loading..." class="btn-action" type="button" onclick="cart.addcart('59');">
-                                                                                                            <i class="fa fa-shopping-cart"></i>
-                                                                                                            <span class="hidden-sm">Thêm vào giỏ</span>
-                                                                                                        </button>
-                                                                                                    </div>
-
-                                                                                                    <div class="compare">
-                                                                                                        <button class="btn-action" type="button" data-toggle="tooltip" data-placement="top" title="So sánh sản phẩm" onclick="compare.addcompare('59');">
-                                                                                                            <i class="fa fa-exchange"></i>
-                                                                                                        </button>
-                                                                                                    </div>
-                                                                                                    <div class="wishlist">
-                                                                                                        <button class="btn-action" type="button" data-toggle="tooltip" data-placement="top" title="Thêm vào yêu thích" onclick="wishlist.addwishlist('59');">
-                                                                                                            <i class="fa fa-heart"></i>
-                                                                                                        </button>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-
-
-                                                                                <div class="col-lg-3 col-sm-3 col-xs-12  product-col">
-                                                                                    <div class="product-block">
-                                                                                        <div class="image">
-
-                                                                                            <div class="product-img img">
-                                                                                                <a class="img" title="Tivi LED 40 inch" href="http://shopstars.myzozo.net/tivi-led-40-inch">
-                                                                                                    <img class="img-responsive" src="http://shopstars.myzozo.net/image/cache/catalog/san-pham/5-560x636.jpg" title="Tivi LED 40 inch" alt="Tivi LED 40 inch" />
-                                                                                                </a>
-                                                                                                <div class="quickview hidden-xs hidden-xs">
-                                                                                                    <a class="btn quick-view" data-toggle="tooltip" data-placement="top" href="http://shopstars.myzozo.net/tivi-led-40-inch" title="Xem">
-                                                                                                        <i class="fa fa-arrows-alt"></i> Xem </a>
-                                                                                                </div>
-                                                                                                <div class="zoom hidden-xs hidden-sm">
-                                                                                                    <a data-toggle="tooltip" data-placement="top" href="http://shopstars.myzozo.net/image/catalog/san-pham/5.jpg" class="product-zoom info-view colorbox cboxElement" title="Tivi LED 40 inch">
-                                                                                                        <i class="fa fa-search"></i>
-                                                                                                    </a>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                        <div class="product-meta">
-                                                                                            <div class="top">
-                                                                                                <h6 class="name"><a href="http://shopstars.myzozo.net/tivi-led-40-inch">Tivi LED 40 inch</a></h6>
-                                                                                                <div class="rating">
-                                                                                                    <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-1x"></i></span>
-                                                                                                    <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-1x"></i></span>
-                                                                                                    <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-1x"></i></span>
-                                                                                                    <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-1x"></i></span>
-                                                                                                    <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-1x"></i></span>
-                                                                                                </div>
-
-                                                                                                <div class="price">
-                                                                                                    <span class="price-new">5,999,000đ</span>
-                                                                                                </div>
-
-                                                                                            </div>
-                                                                                            <div class="bottom">
-                                                                                                <div class="action add-links clearfix">
-
-                                                                                                    <div class="cart">
-                                                                                                        <button data-loading-text="Loading..." class="btn-action" type="button" onclick="cart.addcart('55');">
-                                                                                                            <i class="fa fa-shopping-cart"></i>
-                                                                                                            <span class="hidden-sm">Thêm vào giỏ</span>
-                                                                                                        </button>
-                                                                                                    </div>
-
-                                                                                                    <div class="compare">
-                                                                                                        <button class="btn-action" type="button" data-toggle="tooltip" data-placement="top" title="So sánh sản phẩm" onclick="compare.addcompare('55');">
-                                                                                                            <i class="fa fa-exchange"></i>
-                                                                                                        </button>
-                                                                                                    </div>
-                                                                                                    <div class="wishlist">
-                                                                                                        <button class="btn-action" type="button" data-toggle="tooltip" data-placement="top" title="Thêm vào yêu thích" onclick="wishlist.addwishlist('55');">
-                                                                                                            <i class="fa fa-heart"></i>
-                                                                                                        </button>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-
-
-                                                                                <div class="col-lg-3 col-sm-3 col-xs-12 last product-col">
-                                                                                    <div class="product-block">
-                                                                                        <div class="image">
-
-                                                                                            <div class="product-img img">
-                                                                                                <a class="img" title="Một máy chiếu kĩ thuật số" href="http://shopstars.myzozo.net/mot-may-chieu-ki-thuat-so">
-                                                                                                    <img class="img-responsive" src="http://shopstars.myzozo.net/image/cache/catalog/san-pham/8-560x636.jpg" title="Một máy chiếu kĩ thuật số" alt="Một máy chiếu kĩ thuật số" />
-                                                                                                </a>
-                                                                                                <div class="quickview hidden-xs hidden-xs">
-                                                                                                    <a class="btn quick-view" data-toggle="tooltip" data-placement="top" href="http://shopstars.myzozo.net/mot-may-chieu-ki-thuat-so" title="Xem">
-                                                                                                        <i class="fa fa-arrows-alt"></i> Xem </a>
-                                                                                                </div>
-                                                                                                <div class="zoom hidden-xs hidden-sm">
-                                                                                                    <a data-toggle="tooltip" data-placement="top" href="http://shopstars.myzozo.net/image/catalog/san-pham/8.jpg" class="product-zoom info-view colorbox cboxElement" title="Một máy chiếu kĩ thuật số">
-                                                                                                        <i class="fa fa-search"></i>
-                                                                                                    </a>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                        <div class="product-meta">
-                                                                                            <div class="top">
-                                                                                                <h6 class="name"><a href="http://shopstars.myzozo.net/mot-may-chieu-ki-thuat-so">Một máy chiếu kĩ thuật số</a></h6>
-                                                                                                <div class="rating">
-                                                                                                    <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-1x"></i></span>
-                                                                                                    <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-1x"></i></span>
-                                                                                                    <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-1x"></i></span>
-                                                                                                    <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-1x"></i></span>
-                                                                                                    <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-1x"></i></span>
-                                                                                                </div>
-
-                                                                                                <div class="price">
-                                                                                                    <span class="price-new">3,990,000đ</span>
-                                                                                                </div>
-
-                                                                                            </div>
-                                                                                            <div class="bottom">
-                                                                                                <div class="action add-links clearfix">
-
-                                                                                                    <div class="cart">
-                                                                                                        <button data-loading-text="Loading..." class="btn-action" type="button" onclick="cart.addcart('61');">
-                                                                                                            <i class="fa fa-shopping-cart"></i>
-                                                                                                            <span class="hidden-sm">Thêm vào giỏ</span>
-                                                                                                        </button>
-                                                                                                    </div>
-
-                                                                                                    <div class="compare">
-                                                                                                        <button class="btn-action" type="button" data-toggle="tooltip" data-placement="top" title="So sánh sản phẩm" onclick="compare.addcompare('61');">
-                                                                                                            <i class="fa fa-exchange"></i>
-                                                                                                        </button>
-                                                                                                    </div>
-                                                                                                    <div class="wishlist">
-                                                                                                        <button class="btn-action" type="button" data-toggle="tooltip" data-placement="top" title="Thêm vào yêu thích" onclick="wishlist.addwishlist('61');">
-                                                                                                            <i class="fa fa-heart"></i>
-                                                                                                        </button>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
 
                                                                             </div>
                                                                         </div>
@@ -305,8 +124,10 @@
                                                                 <div class="clearfix"></div>
                                                             </div>
                                                         </div>
+                                                     <!--end san pham noi bat-->
                                                     </div>
                                                     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+                                                    <!-- khuyen mai -->
                                                         <div class="col-inner">
                                                             <div class="widget panel-default productdeals list-product panel-default hidden-sm">
                                                                 <div class="widget-heading panel-heading">
@@ -401,6 +222,7 @@
                                                                 </div>
                                                             </div>
                                                         </div>
+                                                     <!-- end khuyen mai -->
                                                     </div>
                                                 </div>
                                             </div>
@@ -410,6 +232,22 @@
                                         <div class="pav-inner container">
                                             <div class="row row-level-1 ">
                                                 <div class="row-inner clearfix">
+                                                       <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                                                        <div class="col-inner ">
+                                                            <div class="widget panel-default">
+                                                                <!-- title + list link -->
+                                                                <div class="panel-heading">
+                                                                    <h4 class="panel-title">Sản Phẩm Mới</h4>
+                                                                </div>
+                                                                <div class="link-categories pull-right hidden-xs hidden-sm tab-v2">
+                                                                </div>
+
+                                                                <!-- content -->
+                                                                <div class="tab-content">
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
                                                     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
                                                         <div class="col-inner">
                                                             <div class="widget-images box">
@@ -458,22 +296,8 @@
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                                                        <div class="col-inner ">
-                                                            <div class="widget panel-default">
-                                                                <!-- title + list link -->
-                                                                <div class="panel-heading">
-                                                                    <h4 class="panel-title">Sản Phẩm Mới</h4>
-                                                                </div>
-                                                                <div class="link-categories pull-right hidden-xs hidden-sm tab-v2">
-                                                                </div>
+                                       
 
-                                                                <!-- content -->
-                                                                <div class="tab-content">
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
